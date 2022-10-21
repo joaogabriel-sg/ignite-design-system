@@ -1,0 +1,2 @@
+import{A as t}from"./index.d7e9c845.js";import"./index.0e4534fe.js";import"./iframe.6725dbd7.js";import"./index.8e6681b5.js";import"./jsx-runtime.5f91ddb5.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/joaogabriel-sg.png",alt:"Jo\xE3o Gabriel"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.f3573b2c.js.map
